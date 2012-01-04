@@ -1,0 +1,19 @@
+{
+    "name": "application/...+json|+xml as inline",
+    "manifest_version": 2,
+    "version": "0.0.1",
+
+    "description": "Treat responses with Content-Type suffixed with +json and +xml as inline documents.",
+    "background": {
+        "page": "background.html"
+    },
+    "homepage_url": "https://github.com/andreineculau/chrome-inline-media-type",
+    "minimum_chrome_version": "18",
+    "permissions": [
+        "<all_urls>",
+        "tabs",
+        "contextMenus",
+        "webRequest",
+        "webRequestBlocking"
+    ]
+}
