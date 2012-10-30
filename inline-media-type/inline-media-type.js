@@ -36,6 +36,7 @@
             responseHeaders: details.responseHeaders
         };
     }, {
-        urls: ['<all_urls>']
+        urls: ['<all_urls>'],
+		types: ["main_frame", "sub_frame"]
     }, ['blocking', 'responseHeaders']);
 }());
