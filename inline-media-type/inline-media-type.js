@@ -37,6 +37,6 @@
         };
     }, {
         urls: ['<all_urls>'],
-		types: ["main_frame", "sub_frame"]
+        types: ['main_frame', 'sub_frame']
     }, ['blocking', 'responseHeaders']);
 }());
