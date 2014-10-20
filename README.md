@@ -14,8 +14,8 @@ I myself prefer vendor Content-Types, against the "profile" link. This browser e
 
 # References
 
-* <http://tools.ietf.org/html/draft-ietf-appsawg-media-type-suffix-regs-02>
-* <http://tools.ietf.org/html/draft-wilde-profile-link-02>
+* <http://tools.ietf.org/html/rfc6839>
+* <http://tools.ietf.org/html/rfc6906>
 
 # Installation
 
