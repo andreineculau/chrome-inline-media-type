@@ -1,3 +1,7 @@
+**NOTE** Chrome (running 48.x) is aware of syntax-suffixes and displays content inline, thus this extension is redundant.
+
+---
+
 # Inline Additional Media Type Structured Syntax Suffixes
 
 Treat responses with Content-Type suffixed with +json and +xml as inline documents.
